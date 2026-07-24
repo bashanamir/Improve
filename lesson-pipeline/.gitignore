@@ -1,0 +1,6 @@
+.env
+service-account.json
+logs/
+data/
+__pycache__/
+*.pyc
